@@ -1,0 +1,12 @@
+C:\Users\andra.vasilcoiu\Desktop\QAProject\CattyWebLibrary\bin\Debug\net5.0\CattyWebLibrary.deps.json
+C:\Users\andra.vasilcoiu\Desktop\QAProject\CattyWebLibrary\bin\Debug\net5.0\CattyWebLibrary.dll
+C:\Users\andra.vasilcoiu\Desktop\QAProject\CattyWebLibrary\bin\Debug\net5.0\ref\CattyWebLibrary.dll
+C:\Users\andra.vasilcoiu\Desktop\QAProject\CattyWebLibrary\bin\Debug\net5.0\CattyWebLibrary.pdb
+C:\Users\andra.vasilcoiu\Desktop\QAProject\CattyWebLibrary\obj\Debug\net5.0\CattyWebLibrary.csprojAssemblyReference.cache
+C:\Users\andra.vasilcoiu\Desktop\QAProject\CattyWebLibrary\obj\Debug\net5.0\CattyWebLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andra.vasilcoiu\Desktop\QAProject\CattyWebLibrary\obj\Debug\net5.0\CattyWebLibrary.AssemblyInfoInputs.cache
+C:\Users\andra.vasilcoiu\Desktop\QAProject\CattyWebLibrary\obj\Debug\net5.0\CattyWebLibrary.AssemblyInfo.cs
+C:\Users\andra.vasilcoiu\Desktop\QAProject\CattyWebLibrary\obj\Debug\net5.0\CattyWebLibrary.csproj.CoreCompileInputs.cache
+C:\Users\andra.vasilcoiu\Desktop\QAProject\CattyWebLibrary\obj\Debug\net5.0\CattyWebLibrary.dll
+C:\Users\andra.vasilcoiu\Desktop\QAProject\CattyWebLibrary\obj\Debug\net5.0\ref\CattyWebLibrary.dll
+C:\Users\andra.vasilcoiu\Desktop\QAProject\CattyWebLibrary\obj\Debug\net5.0\CattyWebLibrary.pdb
